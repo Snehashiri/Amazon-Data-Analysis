@@ -15,16 +15,16 @@ The project includes the following steps:
 ```
 amazon-sales-analysis/
 │
-├── data/
+
 │   ├── processed/
 │ 
-├── notebooks/
+
 │   ├── EDA.ipynb
 │
-├── tableau/
+
 │   ├── Amazon_Sales_Dashboard.twbx
 |
-├── images/
+
 │   └── dashboard_screenshot.png
 │
 └── README.md
